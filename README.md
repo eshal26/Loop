@@ -1,6 +1,6 @@
 # Loop
 
-Loop is a minimal full-stack TypeScript app for capturing messy spoken thoughts, transcribing them live, extracting structured tasks, and managing the resulting list.
+Loop is a  full-stack TypeScript app for capturing messy spoken thoughts, transcribing them live, extracting structured tasks, and managing the resulting list.
 
 Current flow:
 
